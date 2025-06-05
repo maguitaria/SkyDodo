@@ -91,6 +91,27 @@ pip install -r requirements.txt
 
 ---
 
+## 🎮 How to play
+Control your character and try to jump as high as possible without falling!
+🕹️ Controls
+
+    ⬅️ Left Arrow – Move left
+
+    ➡️ Right Arrow – Move right
+
+    ⬆️ Up Arrow – Jump
+
+    Tip: Time your jumps carefully and aim for the platforms to stay in the game!
+
+### 🎯 Goal
+
+* Jump from platform to platform
+
+* Avoid falling off the screen
+
+* Try to beat your high score!
+
+
 ## 🧠 Project Description
 
 ### 🐤 Player Character
@@ -124,15 +145,6 @@ pip install -r requirements.txt
 * Semi-transparent overlay
 * Interactive "Resume" and "Quit" buttons
 
----
-
-## 🧪 Planned Features
-
-* [ ] Game over screen with restart option
-* [ ] Score counter (height-based)
-* [ ] Power-ups (wings, springs)
-* [ ] Background music and sounds
-* [ ] Additional enemy types (falling, flying)
 
 ---
 
