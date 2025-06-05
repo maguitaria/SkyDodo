@@ -93,7 +93,8 @@ pip install -r requirements.txt
 
 ## 🎮 How to play
 Control your character and try to jump as high as possible without falling!
-🕹️ Controls
+
+### 🕹️ Controls
 
     ⬅️ Left Arrow – Move left
 
